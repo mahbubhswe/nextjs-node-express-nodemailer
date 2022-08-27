@@ -1,0 +1,16 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #F8F8FF;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+*{
+  box-sizing: border-box;
+}
+.customMuiTextStyle{
+  background-color: ghostwhite;
+  border-radius: 4px;
+  padding:3px 10px
+}
